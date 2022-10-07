@@ -14,7 +14,6 @@ var swiper = new Swiper('.slider', {
 
     pagination: {
     el: '.swiper-pagination',
-    dynamicBullets: true,
     clickable: false
     },
     navigation: {
