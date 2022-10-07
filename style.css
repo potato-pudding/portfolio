@@ -170,9 +170,10 @@ height: 100%;
 }
 
 .text > .description {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 100;
     line-height:150%;
+    letter-spacing: 2px;
     color: white;
 }
 
@@ -182,10 +183,12 @@ height: 100%;
 }
 
 .txtbox > .stitle {
-    font-size: 25px;
+    font-size: 27px;
     font-weight: bold;
+    letter-spacing: 2px;
 }
 
 .txtbox > .ssub {
-    font-size: 20px;
+    font-size: 22px;
+    letter-spacing: 1px;
 }
